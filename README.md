@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Edinson
+#  Hola, soy Edinson
 
 ### Estudiante de Análisis de Sistemas Empresariales
 
