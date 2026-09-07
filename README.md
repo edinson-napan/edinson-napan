@@ -155,8 +155,6 @@ Aplicaciones y páginas desarrolladas durante mi formación.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinson-napan&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=edinson-napan&theme=tokyonight&hide_border=true" />
